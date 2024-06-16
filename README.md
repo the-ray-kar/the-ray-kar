@@ -48,7 +48,7 @@ and line-of-sight guidance were used for trajectory tracking.
 <table>
   <tr>
     <td><img src="https://github.com/the-ray-kar/Plant-leaf-disease-detection/blob/main/sample_results/segmentation.png" alt="GIF 1" width="400"/></td>
-    <td><img src="https://github.com/the-ray-kar/Plant-leaf-disease-detection/blob/main/sample_results/extraction.png" alt="GIF 2" width="400"/></td>
+    <td><img src="https://github.com/the-ray-kar/Plant-leaf-disease-detection/blob/main/sample_results/extraction.png" alt="GIF 2" width="600"/></td>
   </tr>
 </table>
 <br>
