@@ -29,7 +29,7 @@ and line-of-sight guidance were used for trajectory tracking.
 
 **Tech Stack:** Coppelia Sim, D* Lite, Python, Motion Plannning, Motion Primitives
 ![recorded_path](https://github.com/the-ray-kar/Trajectory-Planning-Fish-inspired-robots/blob/9103275aaadc830f8c8dbebb427bb88408d9b8e8/Simulation_raw_results/20ms/eelenv.gif)
-Plannning
+
 ![recorded_path](https://github.com/the-ray-kar/Trajectory-Planning-Fish-inspired-robots/blob/4e8dc5cc4025da5cbf01da679ca6ac9178434587/Simulation_raw_results/20ms/eelplan.gif)
 
 ### [Remote coppeliasim ](https://github.com/the-ray-kar/Remote_coppeliasim)
