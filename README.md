@@ -31,6 +31,12 @@ and line-of-sight guidance were used for trajectory tracking.
 ![recorded_path](https://github.com/the-ray-kar/Trajectory-Planning-Fish-inspired-robots/blob/9103275aaadc830f8c8dbebb427bb88408d9b8e8/Simulation_raw_results/20ms/eelenv.gif)
 
 ![recorded_path](https://github.com/the-ray-kar/Trajectory-Planning-Fish-inspired-robots/blob/4e8dc5cc4025da5cbf01da679ca6ac9178434587/Simulation_raw_results/20ms/eelplan.gif)
+<table>
+  <tr>
+    <td><img src="[https://github.com/your-github-username/your-repo/raw/main/your-gif1.gif](https://github.com/the-ray-kar/Trajectory-Planning-Fish-inspired-robots/blob/9103275aaadc830f8c8dbebb427bb88408d9b8e8/Simulation_raw_results/20ms/eelenv.gif)" alt="GIF 1" width="400"/></td>
+    <td><img src="[https://github.com/your-github-username/your-repo/raw/main/your-gif2.gif](https://github.com/the-ray-kar/Trajectory-Planning-Fish-inspired-robots/blob/4e8dc5cc4025da5cbf01da679ca6ac9178434587/Simulation_raw_results/20ms/eelplan.gif)" alt="GIF 2" width="400"/></td>
+  </tr>
+</table>
 
 ### [Remote coppeliasim ](https://github.com/the-ray-kar/Remote_coppeliasim)
 **Description:** This module wraps remote api of coppeliaSim for python as object implementation.  
