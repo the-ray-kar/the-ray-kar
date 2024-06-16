@@ -42,7 +42,7 @@ and line-of-sight guidance were used for trajectory tracking.
 <br>
 
 ### [Plant leaf disease detection](https://github.com/the-ray-kar/Plant-leaf-disease-detection/)
-**Description:** This project uses gentic algorithm to select the best segmentation after clustering. <br> Obtain features from co-occurence matrix and then classify using KNN and SVM
+**Description:** This project uses gentic algorithm to select the best segmentation after clustering. <br> Obtain features from co-occurence matrix and then classify using KNN and SVM <br>
 **Tech Stack:** Image processing, MATLAB, Machine Learning
 
 <table>
