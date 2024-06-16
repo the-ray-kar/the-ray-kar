@@ -24,6 +24,7 @@ Currently I work on Autonomous Vehicles (Cars) to make a safer future.
 
 
 
+
 ## 🚀 Projects
 ### [Trajectory plannnig fish inspired robots](https://github.com/the-ray-kar/Trajectory-Planning-Fish-inspired-robots)
 **Description:** The developed approach utilizes the motion primitives
@@ -38,12 +39,19 @@ and line-of-sight guidance were used for trajectory tracking.
     <td><img src="https://github.com/the-ray-kar/Trajectory-Planning-Fish-inspired-robots/blob/4e8dc5cc4025da5cbf01da679ca6ac9178434587/Simulation_raw_results/20ms/eelplan.gif" alt="GIF 2" width="400"/></td>
   </tr>
 </table>
+<br>
 
 ### [Remote coppeliasim ](https://github.com/the-ray-kar/Remote_coppeliasim)
 **Description:** This module wraps remote api of coppeliaSim for python as object implementation.  
 **Tech Stack:** Coppelia Sim, Inverse Kinematics, Python
-![recorded_path](https://user-images.githubusercontent.com/70949901/137765453-b47d44f3-fcf7-4693-93ea-031974e3ed50.gif)
+![recorded_pat](https://user-images.githubusercontent.com/70949901/137765453-b47d44f3-fcf7-4693-93ea-031974e3ed50.gif)
 
+<br>
+
+### [Plant leaf disease detection](https://github.com/the-ray-kar/Plant-leaf-disease-detection/)
+**Description:** This project uses gentic algorithm to select the best segmentation after clustering. <br> Obtain features from co-occurence matrix and then classify using KNN and SVM
+**Tech Stack:** Image processing, MATLAB, Machine Learning
+![Leaf](https://github.com/the-ray-kar/Plant-leaf-disease-detection/blob/main/sample_results/segmentation.png)
 
 
 
