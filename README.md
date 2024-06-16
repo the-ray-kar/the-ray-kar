@@ -18,6 +18,9 @@ Currently I work on Autonomous Vehicles (Cars) to make a safer future.
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat)
+![Simulink](https://img.shields.io/badge/-Simulink-0076A8?logo=simulink&logoColor=white&style=flat)
+
 
 
 
