@@ -23,9 +23,9 @@ Currently I work on Autonomous Vehicles (Cars) to make a safer future.
 
 ## 🚀 Projects
 
-### [Project Name]([https://github.com/your-github-username/project-repo](https://github.com/the-ray-kar/Remote_coppeliasim))
-**Description:** [A brief description of your project]  
-**Tech Stack:** [Technologies used in the project]  
+### Remote_coppeliasim ([https://github.com/your-github-username/project-repo](https://github.com/the-ray-kar/Remote_coppeliasim))
+**Description:** This module wraps remote api of coppeliaSim for python as object implementation.  
+**Tech Stack:** Coppelia Sim, Inverse Kinematics, Python
 
 
 
