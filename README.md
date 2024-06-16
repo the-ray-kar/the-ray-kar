@@ -34,7 +34,9 @@ and line-of-sight guidance were used for trajectory tracking.
 **Description:** This module wraps remote api of coppeliaSim for python as object implementation.  
 **Tech Stack:** Coppelia Sim, Inverse Kinematics, Python
 ![recorded_path](https://user-images.githubusercontent.com/70949901/137765453-b47d44f3-fcf7-4693-93ea-031974e3ed50.gif)
+Plannning
 ![recorded_path](https://github.com/the-ray-kar/Trajectory-Planning-Fish-inspired-robots/blob/4e8dc5cc4025da5cbf01da679ca6ac9178434587/Simulation_raw_results/20ms/eelplan.gif)
+
 
 
 ## 📫 Connect with Me
