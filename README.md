@@ -44,8 +44,14 @@ and line-of-sight guidance were used for trajectory tracking.
 ### [Plant leaf disease detection](https://github.com/the-ray-kar/Plant-leaf-disease-detection/)
 **Description:** This project uses gentic algorithm to select the best segmentation after clustering. <br> Obtain features from co-occurence matrix and then classify using KNN and SVM
 **Tech Stack:** Image processing, MATLAB, Machine Learning
-![Leaf](https://github.com/the-ray-kar/Plant-leaf-disease-detection/blob/main/sample_results/segmentation.png)
 
+<table>
+  <tr>
+    <td><img src="https://github.com/the-ray-kar/Plant-leaf-disease-detection/blob/main/sample_results/segmentation.png" alt="GIF 1" width="400"/></td>
+    <td><img src="https://github.com/the-ray-kar/Plant-leaf-disease-detection/blob/main/sample_results/extraction.png" alt="GIF 2" width="400"/></td>
+  </tr>
+</table>
+<br>
 <br>
 
 ### [Remote coppeliasim ](https://github.com/the-ray-kar/Remote_coppeliasim)
