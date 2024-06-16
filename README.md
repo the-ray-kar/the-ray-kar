@@ -1,4 +1,4 @@
-# Hi there, I'm [Akshay] 👋
+# Hi there, I'm Akshay 👋
 
 
 Welcome to my GitHub profile! I'm a passionate robotics engineer. I love building robots.
@@ -6,11 +6,8 @@ Welcome to my GitHub profile! I'm a passionate robotics engineer. I love buildin
 
 ## 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **[technologies you're learning]**
-- 👯 I’m looking to collaborate on **[projects or areas you're interested in]**
-- 💬 Ask me about **[your expertise or topics you enjoy discussing]**
-- 📫 How to reach me: **[your contact information]**
-- ⚡ Fun fact: **[a fun fact about you]**
+- 🌱 I’m currently learning **Reinforcement Learning and Computer Vision**
+- 👯 I’m looking to collaborate on **AI, ML, Robotics, anything which moves or thinks**
 
 ## 🛠️ Technologies & Tools
 
