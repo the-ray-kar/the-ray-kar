@@ -26,6 +26,18 @@ Currently I work on Autonomous Vehicles (Cars) to make a safer future.
 
 
 ## 🚀 Projects
+### [Speed Net](https://github.com/the-ray-kar/SpeedNet)
+**Description:** This Project is on Speed Prediction Using Monucular Dash Cam of Car by using 3D CNNs
+
+**Tech Stack:** OpenCV, 3D Convulutional Neural Networks, Pytorch, Computer Vision
+<table>
+  <tr>
+    <td><img src="https://github.com/the-ray-kar/SpeedNet/blob/8862e644a07d6e337ca2b60dd4a941e81e55bd8c/diagrams/ModelRun5500.gif" alt="GIF 1" width="400"/></td>
+    <td><img src="https://github.com/the-ray-kar/SpeedNet/blob/c3208e1976b19eec7599ca11bec42d2f12b5d4b1/SpeedNet.drawio.svg" alt="GIF 2" width="400"/></td>
+  </tr>
+</table>
+<br>
+
 ### [Trajectory plannnig fish inspired robots](https://github.com/the-ray-kar/Trajectory-Planning-Fish-inspired-robots)
 **Description:** The developed approach utilizes the motion primitives
 for generating search trees and a replanning algorithm based on D-star lite. Use Velocity obstacles 
