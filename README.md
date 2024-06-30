@@ -32,7 +32,7 @@ Currently I work on Autonomous Vehicles (Cars) to make a safer future.
 **Tech Stack:** OpenCV, 3D Convulutional Neural Networks, Pytorch, Computer Vision
 <table>
   <tr>
-    <td><img src="https://github.com/the-ray-kar/SpeedNet/blob/8862e644a07d6e337ca2b60dd4a941e81e55bd8c/diagrams/ModelRun5500.gif" alt="GIF 1" width="600"/></td>
+    <td><img src="https://github.com/the-ray-kar/SpeedNet/blob/057546f42517da8193f78c7439062599d71dce70/diagrams/ModelRunSnip.gif" alt="GIF 1" width="600"/></td>
     <td><img src="https://github.com/the-ray-kar/SpeedNet/blob/c3208e1976b19eec7599ca11bec42d2f12b5d4b1/SpeedNet.drawio.svg" alt="GIF 2" width="200"/></td>
   </tr>
 </table>
