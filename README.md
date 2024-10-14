@@ -1,14 +1,14 @@
 # Hi there, I'm Akshay 👋
 
 
-Welcome to my GitHub profile! I'm a passionate artificial intelligence, computer vision and robotics engineer. I love building robots, algorithms and working on challenging tasks and always on too something be it AI , Robots or even electronics. 
-Currently I work on Autonomous Vehicles (Cars) in Merc R&D to make them a reality and safer future.
+Welcome to my GitHub profile! I'm a passionate artificial intelligence, computer vision, datascientist and robotics engineer. Call me what you want. I love building stuff algorithm, pipelines, apps, robots, models and working on challenging tasks and always on too something be it AI , Robots or even electronics. 
+Currently I work on Autonomous Vehicles (Cars) in Mercedes R&D to make them a reality and safer future.
 
 
 ## 🧑‍💻 About Me
 
 - 🌱 I’m currently learning **Reinforcement Learning and Computer Vision**
-- 👯 I’m looking to collaborate on **AI, ML, Robotics, anything which moves or thinks**
+- 👯 I’m looking to collaborate on **AI, ML, Data, Robotics, anything which buzzes my head**
 
 ## 🛠️ Technologies & Tools
 
