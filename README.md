@@ -1,13 +1,13 @@
 # Hi there, I'm Akshay 👋
 
 
-Welcome to my GitHub profile! I'm a passionate artificial intelligence, computer vision, datascientist and robotics engineer. Call me what you want. I love building stuff algorithm, pipelines, apps, robots, models and working on challenging tasks and always on too something be it AI , Robots or even electronics. 
-Currently I work on Autonomous Vehicles (Cars) in Mercedes R&D to make them a reality and safer future.
+Welcome to my GitHub profile! I'm a passionate Data Scientist,artificial intelligence, computer vision and robotics engineer. Call me what you want. I love building stuff algorithm, solve problems, pipelines, apps, robots, models and working on challenging tasks and always on too something be it AI , Robots or even electronics. 
+
 
 
 ## 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Reinforcement Learning and Computer Vision**
+- 🌱 I’m currently learning **GenAI LLMs, Reinforcement Learning and Computer Vision**
 - 👯 I’m looking to collaborate on **AI, ML, Data, Robotics, anything which buzzes my head**
 
 ## 🛠️ Technologies & Tools
@@ -26,6 +26,21 @@ Currently I work on Autonomous Vehicles (Cars) in Mercedes R&D to make them a re
 
 
 ## 🚀 Projects
+
+
+### [Plant leaf disease detection](https://github.com/the-ray-kar/Plant-leaf-disease-detection/)
+**Description:** This project uses gentic algorithm to select the best segmentation after clustering. <br> Obtain features from co-occurence matrix and then classify using KNN and SVM <br>
+**Tech Stack:** Image processing, MATLAB, Machine Learning
+
+<table>
+  <tr>
+    <td><img src="https://github.com/the-ray-kar/Plant-leaf-disease-detection/blob/main/sample_results/segmentation.png" alt="GIF 1" width="400"/></td>
+    <td><img src="https://github.com/the-ray-kar/Plant-leaf-disease-detection/blob/main/sample_results/extraction.png" alt="GIF 2" width="600"/></td>
+  </tr>
+</table>
+<br>
+<br>
+
 ### [Speed Net](https://github.com/the-ray-kar/SpeedNet)
 **Description:** This Project is on Speed Prediction Using Monucular Dash Cam of Car by using 3D CNNs
 
@@ -53,18 +68,6 @@ and line-of-sight guidance were used for trajectory tracking.
 </table>
 <br>
 
-### [Plant leaf disease detection](https://github.com/the-ray-kar/Plant-leaf-disease-detection/)
-**Description:** This project uses gentic algorithm to select the best segmentation after clustering. <br> Obtain features from co-occurence matrix and then classify using KNN and SVM <br>
-**Tech Stack:** Image processing, MATLAB, Machine Learning
-
-<table>
-  <tr>
-    <td><img src="https://github.com/the-ray-kar/Plant-leaf-disease-detection/blob/main/sample_results/segmentation.png" alt="GIF 1" width="400"/></td>
-    <td><img src="https://github.com/the-ray-kar/Plant-leaf-disease-detection/blob/main/sample_results/extraction.png" alt="GIF 2" width="600"/></td>
-  </tr>
-</table>
-<br>
-<br>
 
 ### [Remote coppeliasim ](https://github.com/the-ray-kar/Remote_coppeliasim)
 **Description:** This module wraps remote api of coppeliaSim for python as object implementation.  
