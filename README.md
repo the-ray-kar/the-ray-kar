@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist,artificial intelli
 
 ## 🚀 Projects
 
-### [Viewing Nifty50 Stock movement using Variational autoencoders]([https://github.com/the-ray-kar/Plant-leaf-disease-detection/](https://github.com/the-ray-kar/Stock_VAE)
+### [Viewing Nifty50 Stock movement using Variational autoencoders](https://github.com/the-ray-kar/Stock_VAE)
 **Description:** This project using VAE to compress single time series stock to a 2D latent vector. And use it to visualize Nifty50 stock movement in one year<br>
 **Tech Stack:** Variational AutoEncoders
 ![Movement of 3 stocks along side timeseries](https://github.com/the-ray-kar/Stock_VAE/blob/df5e90aa04e262b0f67970290ac52cc5c7a9d6c4/3stock_latentvstimeseries.gif)
