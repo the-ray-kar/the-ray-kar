@@ -26,13 +26,20 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist,artificial intelli
 
 
 ## 🚀 Projects
-
+### [Data Scientist Job Description Analysis ](https://github.com/the-ray-kar/Data-Science-Job-Statistics/)
 **Description:** This project visualizes the distribution of **167 Data Science job descriptions** collected from the internet. The descriptions cover various tech domains and frameworks, providing insights into the most common skills and technologies required across the industry.
 
 You can explore the interactive treemap visualization hosted on **Hugging Face** here:  
 [**Job Statistics Visualization**](https://huggingface.co/spaces/SparkleDark/Job_Statistics)
 
-![Orchestration Tools Example Vizualization](VizShot.png)
+![Orchestration Tools Example Vizualization](https://github.com/the-ray-kar/Data-Science-Job-Statistics/blob/c21b99aefba4f214210e650e05dda66e596db85e/VizShot.png)
+**Tech Stack:** 
+    Gradio: For creating the interactive web interface.
+    Plotly: For visualizing the data with an interactive treemap.
+    Pydantic: For structuring the data model.
+    Python: For backend logic and data processing.
+    Pickle: For serializing and deserializing data files.
+
 
 
 ### [Viewing Nifty50 Stock movement using Variational autoencoders](https://github.com/the-ray-kar/Stock_VAE)
