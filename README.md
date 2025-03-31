@@ -27,6 +27,14 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist,artificial intelli
 
 ## 🚀 Projects
 
+**Description:** This project visualizes the distribution of **167 Data Science job descriptions** collected from the internet. The descriptions cover various tech domains and frameworks, providing insights into the most common skills and technologies required across the industry.
+
+You can explore the interactive treemap visualization hosted on **Hugging Face** here:  
+[**Job Statistics Visualization**](https://huggingface.co/spaces/SparkleDark/Job_Statistics)
+
+![Orchestration Tools Example Vizualization](VizShot.png)
+
+
 ### [Viewing Nifty50 Stock movement using Variational autoencoders](https://github.com/the-ray-kar/Stock_VAE)
 **Description:** This project using VAE to compress single time series stock to a 2D latent vector. And use it to visualize Nifty50 stock movement in one year<br>
 **Tech Stack:** Variational AutoEncoders
