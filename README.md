@@ -17,6 +17,8 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist,artificial intelli
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=postgresql&logoColor=white&style=flat)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat)
 ![Simulink](https://img.shields.io/badge/-Simulink-0076A8?logo=simulink&logoColor=white&style=flat)
