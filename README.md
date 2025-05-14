@@ -49,12 +49,12 @@ You can explore the interactive treemap visualization hosted on **Hugging Face**
 
 ![Orchestration Tools Example Vizualization](https://github.com/the-ray-kar/Data-Science-Job-Statistics/blob/c21b99aefba4f214210e650e05dda66e596db85e/VizShot.png)
 **Tech Stack:** 
-    Gradio: For creating the interactive web interface.
-    Plotly: For visualizing the data with an interactive treemap.
-    Pydantic: For structuring the data model.
-    Python: For backend logic and data processing.
-    Pickle: For serializing and deserializing data files.
-    Google Vertex AI Gemini Model: Processing raw job descriptions
+    Gradio: For creating the interactive web interface. <br>
+    Plotly: For visualizing the data with an interactive treemap. <br>
+    Pydantic: For structuring the data model.<br>
+    Python: For backend logic and data processing.<br>
+    Pickle: For serializing and deserializing data files.<br>
+    Google Vertex AI Gemini Model: Processing raw job descriptions<br>
 
 
 
