@@ -38,6 +38,8 @@ Check out the demo in new tab here : [View GraphBG Visualization](https://htmlpr
     HTML: Webpage <br>
     Javascript: Graph navigation, Getting nearest neighbours, Quad Trees <br>
     ChatGPT: UI design <br>
+<br>
+**Next Update** : I would be loading the graph from external site rather than creating on which takes time. (Either scaling constant num points or subsetting a big graph)<br>
 
 ### [Data Scientist Job Description Analysis ](https://github.com/the-ray-kar/Data-Science-Job-Statistics/)
 **Description:** This project visualizes the distribution of **167 Data Science job descriptions** collected from the internet. The descriptions cover various tech domains and frameworks, providing insights into the most common skills and technologies required across the industry.
