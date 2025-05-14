@@ -30,10 +30,10 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist,artificial intelli
 
 ## 🚀 Projects
 ### [Interactive Spider Background Cursor](https://github.com/the-ray-kar/GraphBG)
-**Description:** (Precursor for my portfolio, I will be using for my website) : The project renders animated and interactive canvas-based background graph that remains fixed behind scrollable page content. Nodes are randomly placed and connected to nearby neighbors, and cursor movement highlights nearby edges and draws connecting lines in real time. Note: I decided the logic to use quadtrees for optimising on finding nearest neighbours for high response rate and then minor tweaked the code. I used vibe coding for UI. (Sorry for that)
-Code = My logic + My optimisation + Vibe Coding UI.
+**Description:** (Precursor for my portfolio, I will be using for my website) : The project renders animated and interactive canvas-based background graph that remains fixed behind scrollable page content. Nodes are randomly placed and connected to nearby neighbors, and cursor movement highlights nearby edges and draws connecting lines in real time. Note: I decided the logic to use quadtrees for optimising on finding nearest neighbours for high response rate and then minor tweaked the code. I used vibe coding for UI. (Sorry for that). <br>
+Code = My logic + My optimisation + Vibe Coding UI.<br>
 Check out the demo in new tab here : [View GraphBG Visualization](https://htmlpreview.github.io/?https://github.com/the-ray-kar/GraphBG/blob/main/demo_index_checkout.html) <br>
-![Spider Cursor Demo](https://raw.githubusercontent.com/the-ray-kar/GraphBG/66a5e6981fea62fb74dd4f789e8f4b49d0573f91/SpiderCursor.gif)
+![Spider Cursor Demo](https://raw.githubusercontent.com/the-ray-kar/GraphBG/66a5e6981fea62fb74dd4f789e8f4b49d0573f91/SpiderCursor.gif) <br>
 **Tech Stack:** 
     HTML: Webpage
     Javascript: Graph navigation, Getting nearest neighbours, Quad Trees
