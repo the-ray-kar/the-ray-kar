@@ -112,7 +112,7 @@ and line-of-sight guidance were used for trajectory tracking.
 <br>
 
 
-
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=the-ray-kar.the-ray-kar&left_color=gray&right_color=blue)
 
 
 ## 📫 Connect with Me
